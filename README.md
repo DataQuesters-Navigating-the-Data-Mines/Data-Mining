@@ -10,4 +10,7 @@ R4: Apply the decision tree algorithms to build predictive models. Evaluatre how
 
 R5: Implement neural network models, including CNNs, for classification and regression.
 
-Current status: Choosing what dataset(s) to use.
+Dataset chosen: https://huggingface.co/datasets/stingning/ultrachat
+
+Current task (week 5): Attempt to load in and analyse the dataset
+
