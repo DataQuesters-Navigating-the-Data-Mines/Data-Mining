@@ -13,3 +13,4 @@ R5: Implement neural network models, including CNNs, for classification and regr
 Current task (EOD Thursday 12/10): Each member select a dataset, then we vote on which to use.
 
 Ross Update: 08/11/2023: Seemingly nothing done for the last few weeks while I've been unavailable?
+Further update: Pravek and Ross will work on getting the data set loaded by next wednesday, preferably sooner. Rest of group still out of contact.
