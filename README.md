@@ -20,6 +20,6 @@ Syed Sharib update: I have uploaded the raw dataset and the selected dataset and
 
 After Detailed Discussion with the Syed Sharib, i have added the R1 of the Project, on the bases of our Data Set selection. all the questions, assumptions, and Hypothesis have been finalized.
 
-Applied K-mean clustring on a demo dataset waiting for final copy of dataset from Sharib.
+Abdul Basit update: Applied K-mean clustring on a demo dataset waiting for final copy of dataset from Sharib.
 
 Syed Sharib update: I have uploaded the final copy of the dataset and also performed the preprocessing and exploratory data analysis on the dataset. Now for further steps, use the Data Mining R1 file as a prerequisite as it contains the codes for preprocessing and cleaning of the data.
