@@ -24,4 +24,6 @@ Abdul Basit update: Applied K-mean clustring on a demo dataset waiting for final
 
 Syed Sharib update: I have uploaded the final copy of the dataset and also performed the preprocessing and exploratory data analysis on the dataset. Now for further steps, use the Data Mining R1 file as a prerequisite as it contains the codes for preprocessing and cleaning of the data.
 
+Abdul Basit update: K-mean clustring completed.
+
 Pravek Update: Completed the CNN prediction and uploaded it.
