@@ -9,7 +9,7 @@ By analysing this data, we hope to be able to understand the impact COVID-19 has
 ## Questions:
 
     a. Prevalence and Severity of COVID-19:
-        Question: What is the prevalence and severity of COVID-19 among emergency patients in Delhi?
+        Question: What is the prevalence and severity of COVID-19 among emergency patients in Mexico?
         Objective: Analyze the distribution and severity of COVID-19 cases in the dataset.
 
     b. Age-Related Impact:
