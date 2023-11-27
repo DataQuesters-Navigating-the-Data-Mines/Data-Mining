@@ -1,4 +1,6 @@
-# Outlined project topic:
+Outlined project topic (see below)
+
+Cleaned the dataset
 
 # Project Topic
 
