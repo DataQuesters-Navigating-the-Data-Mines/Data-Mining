@@ -11,7 +11,7 @@ Project Direction and Questions
         Understand the holistic impact of COVID-19 on patients' health conditions and outcomes in the emergency setting.
 
     Specific Questions and Objectives: a. Prevalence and Severity of COVID-19:
-        Question: What is the prevalence and severity of COVID-19 among emergency patients in Delhi?
+        Question: What is the prevalence and severity of COVID-19 among emergency patients in Mexico?
         Objective: Analyze the distribution and severity of COVID-19 cases in the dataset.
 
     b. Age-Related Impact:
