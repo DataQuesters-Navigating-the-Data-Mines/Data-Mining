@@ -148,7 +148,25 @@ By analysing this data, we hope to be able to understand the impact COVID-19 has
       4.7 Created a scatter plot graph
       4.8 Set the graphs limits and titles
 
-    
+    5. Pravek handled the CNN prediction
+
+    6. Muhammad handled the Neural network
+      6.1 Read in the dataset
+      6.2 Extracted the features and target variables
+      6.3 Indentified the numerical columns
+      6.4 Extracted the relevant features from the "DATE_DIED" column
+      6.5 Dropped the original "DATE_DIED" column
+      6.6 One-hot encoded variables
+      6.7 Split the data into training and testing sets
+      6.8 Indentified the numerical columns once One-shot encoding is complete
+      6.9 Use  acolumn transformer to standardise the numerical features
+      6.10 Transformed and fit the data into the model
+      6.11 Built the neural network model
+      6.12  Compiled the model
+      6.13 Train the model
+      6.14 Evaluate the model on the test set
+      6.15 Post findings
+      6.16 Save the model
 
     X. Ross handled updating the repository and admin work
       X.1 Updated the repository to match the brief
