@@ -69,6 +69,11 @@ By analysing this data, we hope to be able to understand the impact COVID-19 has
 ## Steps Taken
 
     1. Selected the data set. This was obtained from Kaggle: https://www.kaggle.com/datasets/meirnizri/covid19-dataset using a dataset from the Mexican Government.
+      1.1 Selected python version and libraries
+        1.1.1 Python 3.10.9
+        1.1.2 Pandas 2.1.3
+        1.1.3 matpotlib 3.8.1
+        1.1.4 sklearn 1.3.2        
     
     2. Sharib cleaned the dataset, following the steps in the R1 pre-processing file. The data was cleaned so that certain values were attributed to specific variables, such as gender.
       2.1 Data set loaded
