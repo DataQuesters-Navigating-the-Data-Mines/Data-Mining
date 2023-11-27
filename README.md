@@ -103,16 +103,70 @@ By analysing this data, we hope to be able to understand the impact COVID-19 has
       2.30 Generated heatmap of null values
       2.31 Summarised all data, rounded to 3 decimals
       2.32 Finally print the final dataset to a CSV
+
+    3. Next is the Exploratory Data Analysis
+      3.1 Created a large heatmap, excluding the "DATE_DIED" column
+      3.2 Removed certain columns to create a new dataframe, "df_med"
+      3.3 Counted duplicate rows in "df_med"
+      3.4 Counted number of occurrences of "1" in the "DEAD" column
+      3.5 Created a bar chart showing how many died
+      3.6 Created a pie chart showing the percentage of how many died
+      3.7 Created a new dataframe, "df_dead" that contains only the data of those who died
+      3.8 Counted the frequency of unique values in the "CLASSIFICATION_FINAL" column of "df_dead"
+      3.9 Created function to determine if a patient is a COVID-19 carrier
+      3.10 Applied this function to create a new column in "df_dead" to show if the patient is a carrier or not
+      3.11 Created a pie chart to show how many of those that died had COVID-19
+      3.12 Applied this function to the entire dataset
+      3.13 Created pie chart to show how many patients as a whole had COVID-19
+      3.14 Created new dataframe, "Covid_deaths" containing only those who had COVID-19
+      3.15 Created a histogram visualising the distributionb of ages in the main dataframe
+      3.16 Created a line plot graph to explore how age affected the likelyhood of having COVID-19
+      3.17 Created a bar graph showing whether or not gender had any impact on the frequency of catching COVID-19
+      3.18 Created a bar graph showing the frequency of COVID-19 in women whow ere pregnant vs not-pregnant
+      3.19 Created pie chart showing the percentage of pregnant females who had and did not have COVID-19
+      3.20 Created new dataframe, "df_diseases"
+      3.21 Created multiple bar charts showing which diseases frequently were paired with COVID-19
+      3.22 Created multiple bar charts showing the distrbution of these other diseases amongst patients
+      3.23 Created pie chart of what percentage of patients were hospitalised.
+      3.24 Created a pie chart to show what percentage of those who were hospitalised died.
+      3.25 Created a second dataframe, "df_diseases2", based only upon those hospitalised
+      3.26 Created a pie chart showing how many of those hospitalised died
+      3.27 COmpared how many of those hospitalised also were sent to the ICU
+      3.28 Created pie chart showing what percentage of those hospitalised were sent to the ICU
+      3.29 Compared how many of those in ICU had COVID-19 vs did not have COVID-19
+      3.30 Created pie chart showing what percentage of those int he ICU had COVID-19 vs did not have COVID-19
+      3.31 Counted and created a pie chart of those who died in the ICU.
+      3.32 Created a histogram visualising the trend of deaths over time
       
-    3. Abdul handled the KMean clustering next, using the clean dataset generated above.
-      3.1 Loaded the dataset
-      3.2 Performed Z normalisation and saved the dataset to a new CSV file
-      3.3 Found the optimal number of clusters
-      3.4 Generated the Elbow plot graph
-      3.5 Added cluster labels
-      3.6 Performed the actual KMeans clustering
-      3.7 Created a scatter plot graph
-      3.8 Set the graphs limits and titles
+    4. Abdul handled the KMean clustering next, using the clean dataset generated above.
+      4.1 Loaded the dataset
+      4.2 Performed Z normalisation and saved the dataset to a new CSV file
+      4.3 Found the optimal number of clusters
+      4.4 Generated the Elbow plot graph
+      4.5 Added cluster labels
+      4.6 Performed the actual KMeans clustering
+      4.7 Created a scatter plot graph
+      4.8 Set the graphs limits and titles
+
+    5. Pravek handled the CNN prediction
+
+    6. Muhammad handled the Neural network
+      6.1 Read in the dataset
+      6.2 Extracted the features and target variables
+      6.3 Indentified the numerical columns
+      6.4 Extracted the relevant features from the "DATE_DIED" column
+      6.5 Dropped the original "DATE_DIED" column
+      6.6 One-hot encoded variables
+      6.7 Split the data into training and testing sets
+      6.8 Indentified the numerical columns once One-shot encoding is complete
+      6.9 Use  acolumn transformer to standardise the numerical features
+      6.10 Transformed and fit the data into the model
+      6.11 Built the neural network model
+      6.12  Compiled the model
+      6.13 Train the model
+      6.14 Evaluate the model on the test set
+      6.15 Post findings
+      6.16 Save the model
 
     X. Ross handled updating the repository and admin work
       X.1 Updated the repository to match the brief
