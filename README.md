@@ -113,5 +113,11 @@ By analysing this data, we hope to be able to understand the impact COVID-19 has
       3.6 Performed the actual KMeans clustering
       3.7 Created a scatter plot graph
       3.8 Set the graphs limits and titles
+
+    X. Ross handled updating the repository and admin work
+      X.1 Updated the repository to match the brief
+      X.2 Filled out documentation for each week as honestly and accurately as possible with what is available
+      X.3 Updated the README(s) to explain steps taken as well as what the repository is for
+      X.4 Submitted the final ZIP file
       3.9 Displayed the graph
   
