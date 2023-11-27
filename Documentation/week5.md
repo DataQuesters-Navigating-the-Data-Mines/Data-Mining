@@ -1,4 +1,4 @@
-Was inbtroduced to Abdul and Pravek, who joined our group. They are also late starts.
+Abdul and Pravek joined the group. They are also late starts.
 
 Set goals to pick a dataset by the following week.
 
