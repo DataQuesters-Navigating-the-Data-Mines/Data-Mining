@@ -147,6 +147,7 @@ By analysing this data, we hope to be able to understand the impact COVID-19 has
       4.6 Performed the actual KMeans clustering
       4.7 Created a scatter plot graph
       4.8 Set the graphs limits and titles
+      4.9 Display the graph
 
     5. Pravek handled the CNN prediction
 
@@ -168,10 +169,31 @@ By analysing this data, we hope to be able to understand the impact COVID-19 has
       6.15 Post findings
       6.16 Save the model
 
-    X. Ross handled updating the repository and admin work
-      X.1 Updated the repository to match the brief
-      X.2 Filled out documentation for each week as honestly and accurately as possible with what is available
-      X.3 Updated the README(s) to explain steps taken as well as what the repository is for
-      X.4 Submitted the final ZIP file
-      3.9 Displayed the graph
+    7. Sharib handled the decision tree
+      7.1 Created a new dataframe, "df_model"
+      7.2 Calculated the shape of "df_model"
+      7.3 Displayed the shape of "df_model"
+      7.4 Determined the number of missing values
+      7.5 Removed all rows with missing values
+      7.6 Created heatmap to visualise the presence of missing values
+      7.7 Counted frequency of each value in "Covid_or_not" column
+      7.8 Used a heatmap to visualised the correlation between features in "df" 
+      7.9 Removed unnecessary columns from "df_model"
+      7.10 Split the data into features and target variables
+      7.11 Split into testing and training sets
+      7.12 Created a heatmap for correlated features in the training set
+      7.13 Created a function to correlate the fatures based upon a specified threshold
+      7.14 Remove "Covid_or_not" from both training and testing sets
+      7.15 Create a bar graph visualising the target variablebefore handling imbalance
+      7.16 Train the model using logistic regression
+      7.17 Print the classification for the logistic regression predictions using the test data
+      7.18 Train a decision tree classifier, calculating and printing the train and test accuracy scores
+      7.19 Print the classification report again
+
+    8. Ross handled updating the repository and admin work
+      8.1 Updated the repository to match the brief
+      8.2 Filled out documentation for each week as honestly and accurately as possible with what is available
+      8.3 Updated the README(s) to explain steps taken as well as what the repository is for
+      8.4 Submitted the final ZIP file
+      
   
